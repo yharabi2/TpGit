@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     cout<<"Bonjour"<<endl;
     cout<<"Pouet"<<endl;
     cout<<"Pouet coco"<<endl;
+    cout<<"coucou coco"<<endl;
     return 0;
 }
 
