@@ -24,6 +24,10 @@ int main(int argc, char** argv) {
     cout<<"Pouet"<<endl;
     cout<<"Pouet coco"<<endl;
     cout<<"coucou coco"<<endl;
+    cout<<"coucou mamacita"<<endl;
+    cout<<"coucou naruto"<<endl;
     return 0;
+    
+    
 }
 
